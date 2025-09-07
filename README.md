@@ -10,7 +10,7 @@ Aquí registro **mes a mes**: objetivos, conocimientos a dominar, proyectos, ex�
 - [x] Instalar **Python 3.13 + pip**
 - [x] Instalar y configurar **Git**
 - [x] Conectar **GitHub con SSH**
-- [ ] Crear cuenta en **Kaggle**
+- [x] Crear cuenta en **Kaggle**
 - [ ] Probar **Google Colab**
 
 ✅ **Checkpoint**: Repo `00-setup` en GitHub con README inicial personalizado.  
