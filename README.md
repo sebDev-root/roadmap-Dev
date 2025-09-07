@@ -1,17 +1,23 @@
 ﻿# 🛤️ Roadmap de Aprendizaje — Sebastián Mendoza
 
-Este repositorio será mi **diario de entrenamiento** hacia Ingeniería en Inteligencia Artificial (U. de Caldas, 2026).  
+Este repositorio es mi **diario de entrenamiento** hacia Ingeniería en Inteligencia Artificial (U. de Caldas, 2026).  
 Aquí registro **mes a mes**: objetivos, conocimientos a dominar, proyectos, exámenes propios y mi progreso.
 
 ---
 
 ## 📌 Septiembre 2025 — Fase 0: Setup
+### 🎯 Objetivos
 - [x] Instalar **VS Code**
 - [x] Instalar **Python 3.13 + pip**
 - [x] Instalar y configurar **Git**
 - [x] Conectar **GitHub con SSH**
-- [ ] Crear cuenta en **Kaggle**
+- [x] Crear cuenta en **Kaggle**
 - [ ] Probar **Google Colab**
+
+### 📝 Examen propio
+1. Comprobar versiones instaladas de Python y pip.  
+2. Ejecutar `git config --list` y explicar al menos 3 configuraciones.  
+3. Explicar qué es un **repositorio** en Git.  
 
 ✅ **Checkpoint**: Repo `00-setup` en GitHub con README inicial personalizado.  
 
@@ -45,4 +51,3 @@ Aquí registro **mes a mes**: objetivos, conocimientos a dominar, proyectos, ex�
 ---
 
 ✍️ *Sebastián Mendoza — 16 años, en camino a IA*
-
